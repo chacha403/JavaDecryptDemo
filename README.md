@@ -1,6 +1,6 @@
 # JavaDecryptDemo
 
-Apply the JCE Unlimited Strength Jurisdiction Policy Files is *REQUIRED*
+Apply the JCE Unlimited Strength Jurisdiction Policy Files is **REQUIRED**
 
 To apply the policy files:
 
